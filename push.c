@@ -1,9 +1,9 @@
 #include "monty.h"
 /**
- * f_push - pushes an element to the stack or queue 
- * @head: double pointer to head node
- * @counter: line_number
- * Return: void
+* f_push - pushes an element to the stack or queue
+* @head: double pointer to head node
+* @counter: line_number
+* Return: void
 */
 void f_push(stack_t **head, unsigned int counter)
 {
