@@ -6,6 +6,8 @@
  * @counter: line_number
  * Return: void
 */
+void exit_program(stack_t **head);
+
 void f_pint(stack_t **head, unsigned int counter)
 {
 	if (*head == NULL)
